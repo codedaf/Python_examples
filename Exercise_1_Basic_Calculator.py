@@ -4,7 +4,7 @@ Example #1: Basic Calculator
 def suma(a, b):
     return a + b
 
-def resta(a, b):
+def resta(a, b): 
     return a - b
 
 def multiplicacion(a, b):
